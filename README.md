@@ -14,7 +14,6 @@ A **modern, responsive portfolio website** highlighting Aravinth’s skills, pro
 * **Resume Section:** Multiple versions for different career paths (SDE vs DS/ML).
 * **Project Showcase:** Filterable gallery for projects.
 * **Publications & Certifications:** Highlights academic and professional achievements.
-* **Contact Form:** Simplified way for visitors to reach out.
 
 ---
 
@@ -23,10 +22,7 @@ A **modern, responsive portfolio website** highlighting Aravinth’s skills, pro
 * **HTML5**
 * **CSS3** (Flexbox, Grid, custom properties, component-based)
 * **Vanilla JavaScript (ES6+)**
-* **Component-based architecture**
-* **Font Awesome** (icons)
-* **Google Fonts**
-* **Formspree** (form submissions)
+
 
 ---
 
