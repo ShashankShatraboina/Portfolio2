@@ -2,7 +2,7 @@
 
 A **modern, responsive portfolio website** highlighting Aravinth’s skills, projects in **Software Development Engineering (SDE)** and **Data Science & Machine Learning (DS/ML)**.
 
-🔗 [Portfolio Link](https://aravinthvr.github.io/portfolio)
+🔗 [Portfolio Link](https://shashank-portfolio-rose.vercel.app/)
 
 ---
 
@@ -36,21 +36,7 @@ A **modern, responsive portfolio website** highlighting Aravinth’s skills, pro
 * **common.css:** Shared styles across components (headings, animations, utilities).
 * **responsive.css:** All media queries and responsive adaptations.
 * **components/**: Component-specific CSS (header.css, hero.css, about.css, etc.).
-
-#### **CSS Variables Example**
-
-```css
-:root {
-  --primary-color: #4361ee;
-  --secondary-color: #3f37c9;
-  --accent-color: #4895ef;
-  --text-color: #333333;
-  --bg-color: #ffffff;
-  --card-bg: #ffffff;
-  --border-radius-md: 8px;
-  --transition-normal: 0.3s ease;
-  /* ...other variables... */
-}
+  
 ```
 
 * **Dark Mode:** Uses a `.dark-mode` class on `<body>` with component-specific overrides.
@@ -113,7 +99,14 @@ portfolio/
 ### **License**
 
 * **Creative Commons Attribution 4.0 International**
-* Free to use, modify, and share with **credit to Aravinthaprasath V.**
+* Free to use, modify, and share with **credit to Shashank.S.**
+
+---
+
+## 📬 Contact
+
+For questions or suggestions, reach out at:
+📧 **shashankshatraboina@gmail.com**
 
 ---
 
