@@ -1,6 +1,6 @@
 ## **Shashank’s Portfolio Website**
 
-A **modern, responsive portfolio website** highlighting Aravinth’s skills, projects in **Software Development Engineering (SDE)** and **Data Science & Machine Learning (DS/ML)**.
+A **modern, responsive portfolio website** highlighting Shashank’s skills, projects in **Software Development Engineering (SDE)** and **Data Science & Machine Learning (DS/ML)**.
 
 🔗 [Portfolio Link](https://shashank-portfolio-rose.vercel.app/)
 
